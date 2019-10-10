@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c23ef551-dd2e-4e7c-94f5-32051cd2b0ca" name="Default Changelist" comment="" />
+    <list default="true" id="c23ef551-dd2e-4e7c-94f5-32051cd2b0ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/horizon.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/horizon.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yaml" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +24,7 @@
     </execution>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/laradock" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -123,6 +132,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\argen\Desktop\laravel-horizon\laradock\laravel-horizon\supervisord.d" />
+      <recent name="C:\Users\argen\Desktop\laravel-horizon\laradock\mysql\docker-entrypoint-initdb.d" />
       <recent name="C:\Users\argen\Desktop\laravel-horizon\.docker" />
       <recent name="C:\Users\argen\Desktop\laravel-horizon" />
     </key>
@@ -151,7 +161,12 @@
       <updated>1570099683370</updated>
       <workItem from="1570099684431" duration="10108000" />
       <workItem from="1570122804024" duration="36000" />
-      <workItem from="1570205257133" duration="522000" />
+      <workItem from="1570205257133" duration="29156000" />
+      <workItem from="1570423807505" duration="27000" />
+      <workItem from="1570630194246" duration="1085000" />
+      <workItem from="1570633845899" duration="599000" />
+      <workItem from="1570641795377" duration="3529000" />
+      <workItem from="1570729444374" duration="672000" />
     </task>
     <servers />
   </component>

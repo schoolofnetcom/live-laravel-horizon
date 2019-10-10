@@ -153,7 +153,7 @@ return [
         'local' => [
             'supervisor-1' => [
                 'connection' => 'redis',
-                'queue' => ['default'],
+                'queue' => ['emails', 'videos'],
                 'balance' => 'simple',
                 'processes' => 3,
                 'tries' => 3,
