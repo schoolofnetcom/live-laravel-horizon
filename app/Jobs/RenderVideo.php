@@ -37,5 +37,13 @@ class RenderVideo implements ShouldQueue
     {
         $seconds = rand(1, 10);
         sleep($seconds);
+
+        if ($seconds % 2 == 0) {
+            throw new \Exception('Ops falhou');
+        }
+    }
+
+    public function tags(){
+        return ['videos'];
     }
 }

@@ -153,9 +153,12 @@ return [
         'local' => [
             'supervisor-1' => [
                 'connection' => 'redis',
-                'queue' => ['emails', 'videos'],
-                'balance' => 'simple',
-                'processes' => 3,
+                'queue' => ['emails', 'videos'], //['default']
+                //'queue' => ['default'], //['default']
+                'balance' => 'auto',
+                'minProccesses' => 2,
+                'maxProccesses' => 5,
+                'processes' => 10,
                 'tries' => 3,
             ],
         ],

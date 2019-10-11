@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="c23ef551-dd2e-4e7c-94f5-32051cd2b0ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Jobs/RenderVideo.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Jobs/RenderVideo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Jobs/SendMailJob.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Jobs/SendMailJob.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/HorizonServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/HorizonServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/horizon.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/horizon.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +120,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/laradock/laravel-horizon/supervisord.d" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Dropbox/Trabalho/wamp/www/schoolofnet/son/live/live-laravel6-novidades" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="C:/Program Files/nodejs/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
@@ -159,7 +164,8 @@
       <workItem from="1570630194246" duration="1085000" />
       <workItem from="1570633845899" duration="599000" />
       <workItem from="1570641795377" duration="3529000" />
-      <workItem from="1570729444374" duration="2187000" />
+      <workItem from="1570729444374" duration="5649000" />
+      <workItem from="1570799898567" duration="1480000" />
     </task>
     <servers />
   </component>
